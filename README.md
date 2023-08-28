@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlistairFR, 24yo.
+- 👋 Hi, I’m JB, 24yo.
 - 👀 I’m interested in learning primarily game dev, but any dev is interesting.
 - 🌱 I’m currently learning WebDev in general.
 - 💞️ I’m looking to collaborate on anything I can contribute in :)
