@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JB, 24yo.
-- 👀 I’m interested in learning primarily game dev, but any dev is interesting.
-- 🌱 I’m currently learning WebDev in general.
+- 👀 I’m interested in learning more web development.
+- 🌱 I’m currently learning NextJS and TS.
 - 💞️ I’m looking to collaborate on anything I can contribute in :)
 - 📫 How to reach me : Message me !
 
