@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NextJS and TS.
 - 💞️ I’m looking to collaborate on anything I can contribute in :)
 - 📫 How to reach me : 
-winckel-dev.fr
+https://winckel-dev.fr |
 winckeldev@gmail.com
 
 <!---
