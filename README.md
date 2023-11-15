@@ -1,7 +1,7 @@
 - 👋 Hi, I’m JB, 24yo.
 - 👀 I’m looking for an opportunity to work.
 - 🌱 I’m currently learning NextJS and TS.
-- 💞️ I’m looking to collaborate on anything I can contribute in  :)
+- 💞️ I’m looking to collaborate on anything I can contribute in :)
 - 📫 How to reach me : 
 https://winckel-dev.fr |
 winckeldev@gmail.com
